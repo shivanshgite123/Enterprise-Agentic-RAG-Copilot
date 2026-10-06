@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Enterprise IT Support Agentic RAG Copilot
 
 An end-to-end **Forward Deployed Engineer (FDE) project** that turns a notebook-style Agentic RAG workflow into a deployable internal product using **LangGraph, FastAPI, Pinecone, Groq, Tavily, HTML, CSS, and JavaScript**.
@@ -541,3 +542,6 @@ Uploads a document and adds its chunks to Pinecone.
 
 ---
 
+=======
+# Enterprise-Agentic-RAG-Copilot
+>>>>>>> 109de6de2ace6928803de071a32f31806d6d8192
